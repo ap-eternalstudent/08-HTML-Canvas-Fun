@@ -4,5 +4,5 @@ Open JavaScript file in a browser and draw with your mouse.
 
 DEMO
 
-![Browser Drawing App] (demo/demo.gif)
+![Browser Drawing App](demo/demo.gif)
 
